@@ -1,0 +1,17 @@
+name: bigop
+channels:
+ - conda-forge
+ - nodefaults
+dependencies:
+ - h5py
+ - numpy
+ - pandas
+ - cartopy
+ - matplotlib-base
+ - pathlib
+ - boto3
+ - netcdf4
+ - scipy
+ - imageio
+ - pyhdf
+ - xarray
